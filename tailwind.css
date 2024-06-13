@@ -4,12 +4,7 @@ body {
     font-family: sans-serif;
     background: linear-gradient(#171738, #2E1760);
     color: white;
-	box-sizing: border-box;
-	background-image: url(bg-img1.png);
-	background-size:cover;
-	background-repeat:no-repeat;
-	background-attachment:fixed;
-	backdrop-filter:blur(4px);
+	  box-sizing: border-box;
   }
 
 
@@ -23,7 +18,7 @@ form {
     border-radius: 10px;
   }
 #spin:hover {
-  background: #0dccd5;
+    background: #0dccd5;
     color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 5px #0dccd5,
@@ -60,7 +55,7 @@ margin:10px;
 }
 
 #footer p {
-	color:black;
+	color:white;
 }
 
   
